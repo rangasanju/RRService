@@ -1,0 +1,11 @@
+body {
+  padding-top: 50px;
+}
+.loginContent {
+ margin-bottom:10px;
+ min-height:600px;
+ background-color:silver;
+ text-align: center;
+ font-size:large;
+ vertical-align: bottom;
+}
